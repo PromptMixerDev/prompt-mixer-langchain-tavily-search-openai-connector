@@ -1,6 +1,11 @@
 export const config = {
 	connectorName: 'LangChain Tavily Search Connector',
-	models: ['gpt-4-0125-preview', 'gpt-3.5-turbo-0125'],
+	models: [
+		'gpt-4-turbo',
+		'gpt-4-turbo-2024-04-09',
+		'gpt-4-0125-preview',
+		'gpt-3.5-turbo-0125',
+	],
 	properties: [
 		{
 			id: 'prompt',

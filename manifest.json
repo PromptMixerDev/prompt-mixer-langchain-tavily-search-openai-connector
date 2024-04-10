@@ -1,7 +1,7 @@
 {
 	"id": "prompt-mixer-langchain-tavily-search-openai-connector",
 	"name": "Langchain Tavily Search OpenAI Connector",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.1.0",
 	"description": "Tavily-OpenAI connector harnesses Tavily's web research capabilities and LangChain's AI toolkit to create intelligent, internet-connected agents powered by OpenAI models.",
 	"author": "Prompt Mixer",

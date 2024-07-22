@@ -24,7 +24,7 @@
 	"author": "Prompt Mixer",
 	"license": "MIT",
 	"devDependencies": {
-		"@types/node": "^20.14.2",
+		"@types/node": "^20.14.11",
 		"@typescript-eslint/eslint-plugin": "7.8.0",
 		"@typescript-eslint/parser": "7.13.0",
 		"builtin-modules": "4.0.0",

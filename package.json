@@ -34,7 +34,7 @@
 		"eslint-plugin-prettier": "^5.5.3",
 		"prettier": "^3.6.2",
 		"tslib": "^2.8.1",
-		"typescript": "5.8.3"
+		"typescript": "5.9.2"
 	},
 	"dependencies": {
 		"@langchain/openai": "^0.6.2",

@@ -37,7 +37,7 @@
 		"typescript": "5.9.3"
 	},
 	"dependencies": {
-		"@langchain/openai": "^0.6.16",
+		"@langchain/openai": "^1.0.0",
 		"langchain": "^0.3.36"
 	}
 }

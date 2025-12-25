@@ -38,6 +38,6 @@
 	},
 	"dependencies": {
 		"@langchain/openai": "^1.2.0",
-		"langchain": "^1.2.2"
+		"langchain": "^1.2.3"
 	}
 }
